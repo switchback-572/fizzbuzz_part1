@@ -18,6 +18,6 @@ TODO
     - [x] 10 -> "Buzz"
 
 
-- [ ] 3と5の倍数なら"FizzBuzz"
-    - [ ] 15 -> "FizzBuzz"
-    - [ ] 30 -> "FizzBuzz"
+- [x] 3と5の倍数なら"FizzBuzz"
+    - [x] 15 -> "FizzBuzz"
+    - [x] 30 -> "FizzBuzz"
